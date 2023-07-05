@@ -30,3 +30,8 @@ To use your own webcam for real-time gaze estimation:
    ---> Set cfg.render to True for facial shape visualization if needed
 
    ---> Run demo_webcam.py
+
+## Acknowledgement
+The 3D face model reconstruction in this work is modified from 3DDFA_V2.
+
+

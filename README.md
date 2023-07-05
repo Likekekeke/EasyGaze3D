@@ -32,6 +32,6 @@ To use your own webcam for real-time gaze estimation:
    ---> Run demo_webcam.py
 
 ## Acknowledgement
-The 3D face model reconstruction in this work is modified from 3DDFA_V2.
+The 3D face model reconstruction in this work is modified from [3DDFA_V2](https://github.com/cleardusk/3DDFA_V2).
 
 

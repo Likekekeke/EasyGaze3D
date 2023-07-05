@@ -3,7 +3,7 @@
 
 To use your own webcam for real-time gaze estimation:
 
-1. Build NMS, Sim3DR and mesh render in 3DDFA_V2 (Thanks to this amazing work for 3D face model reconstruction!)
+1. Build NMS, Sim3DR and mesh render in 3DDFA_V2 (Thanks to this amazing work!)
 
    ---> cd ./TDDFA_V2/
    

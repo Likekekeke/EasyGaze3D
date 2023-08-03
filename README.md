@@ -15,7 +15,7 @@ To use your own webcam for real-time gaze estimation:
    
    ---> Set cfg.EasyCali.to_save to True (Recommend to False before getting ready to start)
 
-   ---> Run calibration/capture_images.py (Should fixate at the camera lens center, then press "s" on keyboard to capture 50 images continuously)
+   ---> Run calibration/capture_images.py (Should fixate at the camera lens center and move head freely, then press "s" on keyboard to capture 50 images continuously)
 
    ---> Set camera intrinsic parameters in camera_intrinsic_params.py (Calibrate the webcam before)
 
